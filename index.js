@@ -23,6 +23,5 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  var integer = parseInt(n, 10)
-  return integer
+  return parseInt(n, 10)
 }
